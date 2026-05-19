@@ -1,5 +1,5 @@
 # 💫 About Me:
-final year computer engineering student , expertised in buiding machine learning models , data analytics and full stack developer, open to this roles for intern , full time or contract based 
+Computer Engineering student focused on building scalable software systems and AI-drivenapplications.Experienced in full-stack development and machine learning, with hands-on work in computervision,predictive modeling, and real-time systems. Strong foundation in data structures and problemsolving,with a focus on optimizing performance and reliability.
 
 
 ## 🌐 Socials:
